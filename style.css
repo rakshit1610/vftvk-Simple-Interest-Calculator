@@ -1,24 +1,18 @@
 body {
-    background-color:tan;
+background-color:black;
+font-family: Arial;
+color: white;
 }
-h1{color:#a19f9f;}
+h1{color:grey;
+font-family: Verdana;}
 
-.label{
-    width:100px;
-}
-
-.flexbox{
-    display:flex;
-    margin-bottom: 16px;
-}
-
-.whitebox{
-    background-color: white;
-    display: inline-block;
-    padding: 24px;
-    border-radius: 16px;
+.maindiv{
+background-color: white;
+color:black;
+width: 500px;
+padding: 20px;
+border-radius: 25px;
+margin: 0 auto;
 }
 
-.right{
-    margin-left: 32px;
-}
+
