@@ -1,4 +1,24 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:tan;
+}
+h1{color:#a19f9f;}
 
+.label{
+    width:100px;
+}
 
+.flexbox{
+    display:flex;
+    margin-bottom: 16px;
+}
+
+.whitebox{
+    background-color: white;
+    display: inline-block;
+    padding: 24px;
+    border-radius: 16px;
+}
+
+.right{
+    margin-left: 32px;
+}
